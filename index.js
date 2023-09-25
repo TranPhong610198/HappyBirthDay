@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Chúc Mừng Sinh Nhật Kòi - Mở Hộp Quà Để Đọc Lời Chúc Nhé" //Lời mở đầu cho bức thư
-const mainContentLetter = "Gửi lời nhắn nhủ đến người bạn bạn yêu thương." //Nội dung của bức thư
+const mainContentLetter = "Chúc Sinh Nhật Vui Vẻ Tuổi mới càng thêm xinh độp nhé !!! - click vô Happy Birthday thử xem ^_^" //Nội dung của bức thư
 
 // Add a picture in the conner of the letter
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
